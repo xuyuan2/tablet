@@ -1,0 +1,1 @@
+/home/ubuntu/Desktop/tablet/build/lx/main/CMakeFiles/main.dir

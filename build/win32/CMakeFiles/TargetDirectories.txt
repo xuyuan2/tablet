@@ -1,0 +1,3 @@
+C:/Users/xuyuan/Desktop/xuyuan/tablet/build/win32/main/CMakeFiles/main.dir
+C:/Users/xuyuan/Desktop/xuyuan/tablet/build/win32/CMakeFiles/ALL_BUILD.dir
+C:/Users/xuyuan/Desktop/xuyuan/tablet/build/win32/CMakeFiles/ZERO_CHECK.dir
